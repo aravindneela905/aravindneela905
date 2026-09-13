@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aravindneela274@gmail.com**
 
-- 📄 Know about my experiences [Fresher | Python Full Stack Developer 2026 – Present Currently building full-stack projects and developing skills in Python, Django, React, SQL, REST APIs, and Git/GitHub.](Fresher | Python Full Stack Developer 2026 – Present Currently building full-stack projects and developing skills in Python, Django, React, SQL, REST APIs, and Git/GitHub.)
+- 📄 Know about my experiences [Fresher | Python Full Stack Developer 2026 – Present Currently building full-stack projects and developing skills in Python, Django, React, SQL, REST APIs, and Git/GitHub.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
